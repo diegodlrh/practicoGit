@@ -1,0 +1,5 @@
+¿Dónde se almacenan los comandos binarios??
+Propósito. Las utilidades que se utilizan para la administración del sistema (y otros comandos exclusivos de root) se almacenan en / sbin, / usr / sbin y / usr / local / sbin . / sbin contiene binarios esenciales para arrancar, restaurar, recuperar y / o reparar el sistema además de los binarios en / bin .
+
+¿Cómo se lee binario??
+La clave para leer binario es separar el código en grupos de generalmente 8 dígitos y saber que cada 1 o 0 representa un 1, 2, 4, 8, 16, 32, 64, 128, etc. de derecha a izquierda. los números son fáciles de recordar porque comienzan en 1 y luego se multiplican por 2 cada vez.
