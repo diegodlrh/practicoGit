@@ -30,8 +30,7 @@ Entre las principales tareas del equipo, deberán de analizar distintas herramie
 # <br> Objetivos <a name="id3"></a>
 # <br> Trabajo realizado <a name="id4"></a>
 
-![Flujo Trunk Based repositorios de Develop](https://drive.google.com/uc?export=view&id=14zBG5a4K7jeO96gkJUJWROrxfka8FtWg)
+![Flujo Trunk Based repositorios de Develop](https://drive.google.com/uc?export=view&id=1GFxsW0bcJI7rpuG2YJkNGEBK2_tD04Un)
 ![Flujo Trunk Based repositorios de DevOps](https://drive.google.com/uc?export=view&id=1ez8H7GaJF4rPdU83DcMv26glT8Vi9lUT)
-
 
 
