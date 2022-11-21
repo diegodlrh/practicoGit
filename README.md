@@ -1,12 +1,6 @@
-h1, h2, h3 { text-align: center; }
-
 ![Logo de Universidad ORT](https://drive.google.com/uc?export=view&id=1E0sLWfVQwRFCJaAwZVIDiBxF5izOp7gR)
-<h1>Universidad ORT Uruguay</h1>
-<h2>Facultad de Ingeniería</h2>
-\begin{center}
-## Texto
-\end{center}
-<br>
+<h1 align = "center">Universidad ORT Uruguay</h1>
+<h2 align = "center">Facultad de Ingeniería</h2>
 
 
 ### <center>Documentación de obligatorio</center>
