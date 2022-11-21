@@ -1,6 +1,9 @@
 ![Logo de Universidad ORT](https://drive.google.com/uc?export=view&id=1E0sLWfVQwRFCJaAwZVIDiBxF5izOp7gR)
 <center><h1>Universidad ORT Uruguay</h1></center>
 ## <center>Facultad de Ingeniería</center>
+\begin{center}
+## Texto
+\end{center}
 
 ### <center>Documentación de obligatorio</center>
 ### <center>Certificado en DevOps</center><br>
